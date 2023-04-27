@@ -1,0 +1,10 @@
+ div#blok1_banka {background-color: 00ff00;width:602px;}
+ div#blok2_banka {background-color: 00ff00;width:602px;}
+ div#blok3_banka {background-color: 00ff00;width:602px;}
+ div#blok1_banka:hover {background-color: blue;font-size:19mm;}
+ div#blok2_banka:hover {background-color: yellow;font-size:19mm;}
+ div#blok3_banka:hover {background-color: gold;font-size:19mm;}
+/* 
+hover; - pozwala nadać atrybuty linkowi na który najeżdzamy myszką, ale go nie klikneliśmy
+Norbert Bańka 3K 
+*/
